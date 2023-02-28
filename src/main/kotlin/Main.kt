@@ -10,6 +10,13 @@ fun main(args: Array<String>) {
     val h=Human();
     h.hello()
 
+    var age= 39
+    var weight:Float =66f
+    var name:String = "Jeff"
+
+
+
+
 }
 
 class Human{
